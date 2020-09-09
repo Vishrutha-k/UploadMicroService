@@ -15,9 +15,7 @@
 	<name>ExcelUploadService</name>
 	<description>Microservice to upload excel file and store on MySQL DB</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	
 
 	<dependencies>
 
